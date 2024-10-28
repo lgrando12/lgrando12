@@ -10,8 +10,6 @@ I'm a passionate tech professional with a background in Systems Analysis and Dev
 
 ## Technologies and Tools
 
-Here are some of the key tools and technologies I work with:
-
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="50" height="50"/>
@@ -31,6 +29,6 @@ I’m currently working on:
 
 ## Get in Touch
 
-- [LinkedIn](https://linkedin.com/in/lucasgrando) 📩
+- [LinkedIn](https://www.linkedin.com/in/lucasgrando-4ab01b154/) 📩
 
 Thank you for visiting my profile! Let's connect and grow together! 🚀
